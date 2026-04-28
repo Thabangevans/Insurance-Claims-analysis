@@ -17,7 +17,7 @@ The ultimate goal is to recommend **data-driven actions** that support decision-
 - Apply **Databricks: data cleaning and validation** to ensure reliable analysis.
 - Build **Databricks: SQL queries** for claims, fraud and customer insights.
 - Design **Power BI: dashboards** that highlight KPIs and trends in a clear, executive-ready format.
-- Use **data storytelling** to connect findings with actionable business recommendations.
+- Use **Documentation: data storytelling** to connect findings with actionable business recommendations.
 
 ---
 
