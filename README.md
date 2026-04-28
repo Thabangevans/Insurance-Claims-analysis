@@ -37,7 +37,7 @@ The ultimate goal is to recommend **data-driven actions** that support decision-
    • Life Policy, even though it is lesser than most policies when it comes to fraud flags, it still has the highest claims amount than all the other policies. This policy usually has a high pay out, attracting fraud attempts.
 
 5. **Where is fraud most common?**  
-   • Fraud happens everywhere but mostly common in North West and Western Cape.
+   • Fraud happens everywhere but mostly common in KwaZulu-Natal and Western Cape.
    
    • Western Cape has the highest fraud flag and one of the highest claim amounts in Life, Home and Motor policies, thus making it the main hotspot.
 
