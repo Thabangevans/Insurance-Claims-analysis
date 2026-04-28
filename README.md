@@ -55,11 +55,11 @@ The ultimate goal is to recommend **data-driven actions** that support decision-
 ### Fraud Prevention strategies:
 • Improve data collection processes to reduce “unknown” values.
 
-• Introduce stronger fraud detection systems, especially Motor and Life policies.
+• Introduce stronger fraud detection systems, especially for Motor and Life policies.
 
 • Flag lapsed/cancelled policies for extra review before payout.
 
-• Focus on fraud monitoring resources in North West and Western Cape more closely.
+• Focus on fraud monitoring resources in KwaZulu-Natal and Western Cape more closely.
 
 ### Pricing Adjustments:
 • Increase premiums for Motor and Life policies because they reflect high claim amounts.
