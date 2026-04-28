@@ -32,7 +32,7 @@ The ultimate goal is to recommend **data-driven actions** that support decision-
 3. **Which policy type is most risky?**  
    • Motor and Life are the riskiest policies to take for individual reasons, for example;
    
-   • Motor Policy has the highest Fraud flag and a very high sum in claim amounts; Motor Policies are often taken advantage of because repair prices can be inflated.
+   • Motor Policy has the second highest Fraud flag and a very high sum in claim amounts; Motor Policies are often taken advantage of because repair prices can be inflated.
    
    • Life Policy, even though it is lesser than most policies when it comes to fraud flags, it still has the highest claims amount than all the other policies. This policy usually has a high pay out, attracting fraud attempts.
 
